@@ -9,6 +9,7 @@ from HeadingClassifier import classifyHeadings
 INPUT_JSON = "input/input.json"
 OUTPUT_JSON = "output/output.json"
 PHI_MODEL_PATH = "models/phi-1.5.Q4_0.gguf"
+BGE_MODEL_PATH = "models/bge-small-en"
 PDF_DIR = "input/PDFs"
 JSON_DIR = "input/PDFs"
 
@@ -34,7 +35,7 @@ def main():
     all_sections = extract_sections_from_jsons(pdf_files, PDF_DIR, JSON_DIR)
 
     #  Rank headings using embeddings
-    model = EmbeddingModel()
+    model = EmbeddingModel(BGE_MODEL_PATH)
     headings = [s["title"] for s in all_sections]
     ranked_headings = rank_headings(headings, full_context, model, top_k=5)
 

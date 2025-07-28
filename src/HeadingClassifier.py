@@ -1,6 +1,3 @@
-import os
-import nltk
-from nltk.corpus import stopwords
 import joblib
 import spacy
 from pdfReader import read_pdf

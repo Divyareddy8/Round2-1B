@@ -5,23 +5,9 @@ from huggingface_hub import hf_hub_download
 models_dir = r"models"
 os.makedirs(models_dir, exist_ok=True)
 
-# Download bge‑small‑en files
-bge_dir = os.path.join(models_dir, "bge-small-en")
-os.makedirs(bge_dir, exist_ok=True)
+from huggingface_hub import snapshot_download
 
-bge_files = [
-    "config.json",
-    "pytorch_model.bin",
-    "sentence_bert_config.json",
-    "tokenizer_config.json",
-    "vocab.txt",
-]
-
-print("📥 Downloading BGE‑small‑en...")
-for fname in bge_files:
-    path = hf_hub_download(repo_id="BAAI/bge-small-en", filename=fname)
-    shutil.copy(path, os.path.join(bge_dir, fname))
-print("✅ BGE‑small‑en downloaded to:", bge_dir)
+model_path = snapshot_download(repo_id="BAAI/bge-small-en", local_dir=f"{models_dir}/bge-small-en", local_dir_use_symlinks=False)
 
 # Download phi‑1.5 Q4_0 GGUF
 phi_repo = "tensorblock/phi-1_5-GGUF"
