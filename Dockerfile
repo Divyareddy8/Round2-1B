@@ -15,8 +15,8 @@ RUN apt-get update && apt-get install -y \
     wget \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy all project files including requirements.txt
-COPY . .
+# Copy only requirements first to leverage Docker cache
+COPY requirements.txt .
 
 # Install Python dependencies (CPU-only Torch version)
 RUN pip install --upgrade pip && pip install -r requirements.txt
@@ -27,8 +27,12 @@ RUN python -m nltk.downloader punkt stopwords
 # Download spaCy English model
 RUN python -m spacy download en_core_web_sm
 
-# Run model download script (if required)
+# Download HuggingFace models
+COPY src/download_models.py ./src/
 RUN python src/download_models.py
+
+# Now copy the rest of the project (source code, etc.)
+COPY . .
 
 # Run the app
 CMD ["python", "src/main.py"]

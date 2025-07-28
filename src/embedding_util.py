@@ -17,7 +17,7 @@ nlp = spacy.load("en_core_web_sm")
 
 class EmbeddingModel:
     def __init__(self):
-        self.model = SentenceTransformer('BAAI/bge-small-en')
+        self.model = SentenceTransformer("models/bge-small-en")
 
     def encode(self, texts, convert_to_tensor=False):
         return self.model.encode(texts, convert_to_tensor=convert_to_tensor, normalize_embeddings=True)
