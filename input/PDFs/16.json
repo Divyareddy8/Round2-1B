@@ -1,0 +1,250 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Edit text in a PDF ",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Set the default font for adding and editing text ",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Change, replace, or delete text ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "1. Select Edit in the global bar.  ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Format text ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "1. Select Edit in the global bar. ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "2. Select the text that you want to change. ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Formatting options on the left pane ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "• Bold : Bolds the text. ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "• Underline: Underlines the text.  ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Add new text ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Content. ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "• Font name, size, and color ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Move, rotate, or resize a text box ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Content. ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "3. Do any of the following:  ",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Add or edit lists ",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Content.  ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "To create a numbered or bulleted list: ",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "under Format Text. ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "To convert an existing list item to a paragraph: ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "To convert from one list type to another: ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Change font color ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "1. Select Edit in the global bar. ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2. Select the text that you want to change. ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Change font ",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Content. ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2. Select the text that you want to change. ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Change font size ",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Content. ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2. Select the text that you want to change. ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Redo text in Acrobat ",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "more > Redo. ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Undo text in Acrobat ",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "more > Undo. ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Change paragraph spacing ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Edit images or objects in a PDF ",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Modify images in a PDF ",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "2. To add a button: ",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "3. To add a video: ",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "1. From the left menu, select Video. ",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "4. Select OK. ",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "4. To add sound to the PDF: ",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "1. From the left menu, select Sound. ",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "4. Select OK. ",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "5. To add 3D Media to the video: ",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Edit an image outside Acrobat ",
+      "page": 15
+    }
+  ]
+}

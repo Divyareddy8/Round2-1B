@@ -1,0 +1,75 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_003",
+        "test_case_name": "create_manageable_forms",
+        "description": "Creating manageable forms"
+    },
+    "documents": [
+        {
+            "filename": "14.pdf",
+            "title": "Learn Acrobat - Create and Convert_1"
+        },
+        {
+            "filename": "15.pdf",
+            "title": "Learn Acrobat - Create and Convert_2"
+        },
+        {
+            "filename": "16.pdf",
+            "title": "Learn Acrobat - Edit_1"
+        },
+        {
+            "filename": "17.pdf",
+            "title": "Learn Acrobat - Edit_2"
+        },
+        {
+            "filename": "18.pdf",
+            "title": "Learn Acrobat - Export_1"
+        },
+        {
+            "filename": "19.pdf",
+            "title": "Learn Acrobat - Export_2"
+        },
+        {
+            "filename": "20.pdf",
+            "title": "Learn Acrobat - Fill and Sign"
+        },
+        {
+            "filename": "21.pdf",
+            "title": "Learn Acrobat - Generative AI_1"
+        },
+        {
+            "filename": "22.pdf",
+            "title": "Learn Acrobat - Generative AI_2"
+        },
+        {
+            "filename": "23.pdf",
+            "title": "Learn Acrobat - Request e-signatures_1"
+        },
+        {
+            "filename": "24.pdf",
+            "title": "Learn Acrobat - Request e-signatures_2"
+        },
+        {
+            "filename": "25.pdf",
+            "title": "Learn Acrobat - Share_1"
+        },
+        {
+            "filename": "26.pdf",
+            "title": "Learn Acrobat - Share_2"
+        },
+        {
+            "filename": "27.pdf",
+            "title": "Test Your Acrobat Exporting Skills"
+        },
+        {
+            "filename": "28.pdf",
+            "title": "The Ultimate PDF Sharing Checklist"
+        }
+    ],
+    "persona": {
+        "role": "HR professional"
+    },
+    "job_to_be_done": {
+        "task": "Create and manage fillable forms for onboarding and compliance."
+    }
+}

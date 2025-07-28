@@ -1,0 +1,470 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "What’s the best way to create a PDF? ",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "PDF creation methods by file type ",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Balance PDF file size and quality ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Convert a file to PDF using Acrobat menu ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Convert a file to PDF using the Convert to PDF tool ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Drag-and-drop to create PDFs ",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "to Adobe PDF. ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Convert clipboard content to PDF ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "1. Capture content in the Clipboard: ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "objects. ",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Create a blank PDF ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Acrobat creates a blank page PDF. ",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "pages > Insert > Blank page. ",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Create multiple PDFs from multiple files  ",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "About Acrobat PDFMaker ",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "applications | Acrobat, Reader. ",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Using Create PDF cloud service for PDF conversion ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Convert a file to PDF using PDFMaker ",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Show or activate PDFMaker in Microsoft Office and Lotus Notes ",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "menu and select Go. ",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Convert a file to PDF ",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Create a PDF and share the link for viewing or commenting ",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Create a PDF and share via Outlook ",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Create a PDF as an email attachment ",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "PDF > Set Security Properties > Security Method. ",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Create a PDF and send it for review ",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Send For Review. ",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "review. ",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "Create a PDF and run an action ",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "View PDFMaker conversion settings ",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "click Preferences. ",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Settings tab of the Adobe PDFMaker preferences ",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Conversion Settings ",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "View Adobe PDF Result ",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Adobe PDF And Email.) ",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Prompt For Adobe PDF File Name ",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Convert Document Information ",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "PDF/A Compliance ",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Security tab of the Adobe PDFMaker preferences ",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Require A Password To Open The Document ",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Restrict Editing And Printing Of The Document ",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "When selected, makes the other Permissions options available. ",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Change Permissions Password ",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Printing Allowed ",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Changes Allowed ",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Enable Copying Of Text, Images, And Other Contents ",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Prevents or allows users from copying from the PDF. ",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Enable Text Access For Screen Reader Devices For The Visually Impaired ",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Enable Plaintext Metadata ",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "Convert Microsoft Word, PowerPoint, and Excel files to PDF ",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Convert Excel files to PDF ",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "1. Open a file in Excel. ",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "2. Optionally, select the cells to convert. ",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "choose Convert To PDF. ",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Convert Word and PowerPoint files to PDF ",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "1. Open a file in Word or PowerPoint. ",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "Convert email messages to PDFs ",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Portfolio. ",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Specify whether email messages become merged PDFs or PDF Portfolios ",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "1. Do one of the following: ",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "2. Do one of the following: ",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "File. ",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "• Click No to cancel the process. ",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Convert email folders to a new PDF ",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "1. Do one of the following: ",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "the Convert This Folder And All Sub Folders option. ",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "Set up automatic email archiving ",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "1. Do one of the following: ",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Maintain Log Of Archival ",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Creates a record of each archiving session. ",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Choose File ",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Specifies the name and location of the archiving log. ",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Embed Index For Faster Search ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "Create PDFs from Word mail merges ",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "• Choose Acrobat > Mail Merge. ",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Email options for PDF mail merges ",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "To ",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Subject Line ",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Message ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "Convert Visio files to PDF (Acrobat Pro) ",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "3. Do one of the following: ",
+      "page": 28
+    }
+  ]
+}

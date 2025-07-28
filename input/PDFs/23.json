@@ -1,0 +1,440 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Send a document to get signatures from others ",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Request signatures – Add recipients ",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Based Authentication, Phone, or Acrobat Sign. • Password Protect the PDF file. ",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "• Set a Completion Deadline. ",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "More or ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Advanced Options ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "• Simplified mode for single signer ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "• Simplified mode for multiple signers ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Signer's experience ",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "select Send in bulk. ",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Steps to send in bulk ",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "2. Add a file: ",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "3. Add participants: ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "1. List the participants required. ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "• The Sign action is assigned by default. ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "• Up to 50 participants are supported. ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "• Multiple files can be uploaded. ",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "6. Add Agreement Details: ",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "7. Edit the Agreement settings (Optional): ",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "9. Prepare the Agreement and Add Fields: ",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "• Signer's name (Printed) ",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "• Signer's email ",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "• Supports field validation ",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "• Supports calculated fields ",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "• Supports conditional fields ",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "• Allows control of the field text font/appearance ",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "11. Review and Send ",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Review the agreement information and Send if everything is correct ",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "12. Confirmation ",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Manage your bulk sends ",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Bulk sends can be managed from your Documents tab. ",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "1. Navigate to the Documents tab. ",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "• View Activity Report ",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "Why use certificate signatures? ",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "What can I do with certificate IDs? ",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Sign documents ",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "• Sign PDF files using certificate IDs ",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "• Place a signature box anywhere on the page ",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "• Add multiple signatures to a page ",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Validate documents ",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Set privileges and permissions for others ",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "What if my organization isn’t prepared to set up certificate-based signatures? ",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Resources ",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Certifying and signing documents ",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Digitally sign ",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Certify (visible or invisible signatures) ",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Signatures made with the Certify or Digitally sign options comply with data protection ",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Setting up certificate-based signatures ",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "appearance.) ",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Document mode. ",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "the Digital Signatures Guide. ",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Set signing preferences ",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Preferences” in the Digital Signature Guide. ",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Customizing signature workflows using seed values ",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Create the appearance of a certificate-based signature ",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Signature. ",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "No Graphic ",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Imported Graphic ",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Name ",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Set up a roaming ID account ",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "1. Open the Preferences dialog box. ",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "2. Under Categories, select Signatures. ",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Account. ",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "PKCS#12 modules and tokens ",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Store certificates on directory servers ",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Import directory server settings (Windows only) ",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "1. Open the Preferences dialog box. ",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "2. Under Categories, select Signatures. ",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "3. For Document Timestamping, select More. ",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "7. Select Import Search Directory Settings. ",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "The directory server appears in the Security Settings dialog box. ",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "Export directory server settings (Windows only) ",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "1. Open the Preferences dialog box. ",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "2. Under Categories, select Identity. ",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "4. Under Categories, select Signatures. ",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "5. For Document Timestamping, select More. ",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "9. Do one of the following: ",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "1. Open the Preferences dialog box. ",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "2. Under Categories, select Signatures. ",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "3. For Document Timestamping, click More. ",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "4. Select Time Stamp Servers on the left. ",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "5. Do one of the following: ",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Set a timestamp server as the default ",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "2. Under Categories, select Signatures. ",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "3. For Document Timestamping, click More. ",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4. Select Time Stamp Servers on the left. ",
+      "page": 29
+    }
+  ]
+}

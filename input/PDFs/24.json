@@ -1,0 +1,235 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Adobe LiveCycle Rights Management (ALCRM) servers ",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "What is a digital signature? ",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "Why validate a digital signature? ",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "Set preferences for validating digital signatures ",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "signatures in a PDF when you open the document. ",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "is often selected automatically. Contact your system administrator about ",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "specific plug-in requirements for validating signatures. ",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "certificates against a list of excluded certificates during validation. If you ",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "deselect the check box, the revocation status for Acrobat Approval ",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "signatures is ignored. The revocation status is always checked to certify ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "signatures. ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "discards expired timestamps. ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "time.  ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "user when the verification information is too large. ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Certificates store for: ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "certification signature validation. ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Note: Selecting these options can compromise security. ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Set the trust level of a certificate ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "> Preferences > Signatures. ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "to play in a certified document. ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "certificates you trust. ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "import/export methodology operations on certified documents. ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Sign in preview mode for document integrity ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Certify a PDF ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Timestamp a document ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "timestamp server. ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Validate a digital signature ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Validate all digital signatures ",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "View previous versions of a digitally signed document ",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Signed Version.  ",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Compare versions of a signed document ",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Once you're done, close the temporary document. ",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Trust a signer’s certificate ",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Sign component PDFs and PDF Portfolios  ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Digitally sign on attachments to component PDFs ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "1. Open the PDF in a separate window. ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "View signed and certified PDF Portfolios ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "XML data signatures ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Establish long-term signature validation ",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "extended PDF. ",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "to Preferences > Security > Advanced Preferences > Verification tab. ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Add verification information at signing ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "To add verification information while signing: ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "3. Sign the PDF. ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Add verification information after signing ",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "2. Select Add Verification Information. ",
+      "page": 10
+    }
+  ]
+}

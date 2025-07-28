@@ -1,0 +1,160 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Add comments while viewing a PDF document ",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Annotations and drawing markup tools overview ",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Show annotations and drawing markup tools ",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Comment pane ",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Drawing Tools menu ",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Select an annotation or drawing markup tool ",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Keep an annotation tool selected ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Add a comment ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Steps to add a comment ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Edit a comment ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Copy partial text in a comment ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "1. Click or double-click the note icon. ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Add a text comment ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Add reactions to comments on shared files ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Add an arrow, or shape ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2. Draw in the PDF: ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Add note to markup ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Group and ungroup markups ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Group markups ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Add comments in a text box or callout ",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Set or change properties for the text box ",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Add comments in a file attachment ",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Commenting preferences ",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Viewing comments ",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Font, Font Size ",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Pop-up Opacity ",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Enable Text Indicators And Tooltips ",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Print Notes And Pop-ups ",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Ensure That Pop-ups Are Visible As The Document Is Scrolled ",
+      "page": 14
+    }
+  ]
+}

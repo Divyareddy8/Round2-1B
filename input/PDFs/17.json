@@ -1,0 +1,155 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Export PDF images to another format ",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "Rotate pages in a PDF ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Extract pages from a PDF ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "3. Select Extract pages  under PAGE OPTIONS. ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Extract random pages from a PDF ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Select the Extract pages  under PAGE OPTIONS. ",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "pages after extracting. ",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "separate files. ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Split PDFs into multiple documents ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Number of pages ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "File Size ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Specify the maximum file size for each document in the split. ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Top-level Bookmarks ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Number of pages ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "File Size ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Specify the maximum file size for each document in the split. ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Top-level Bookmarks ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Move or copy pages in a PDF ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Delete or replace pages in a PDF ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Delete multiple pages in a PDF ",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Note: You can't undo the Delete command. ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Replace pages in a PDF ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "7. Select OK. ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Renumber pages in a PDF ",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "sequence from previous pages without interruption.  ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Edit Scanned PDFs ",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Recognize text on scanned PDF ",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "started. ",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "4. Select Recognize text. ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "Enhance scanned file or camera images for ",
+      "page": 15
+    }
+  ]
+}

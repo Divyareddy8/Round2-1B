@@ -1,0 +1,360 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Overview of generative AI features ",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Benefits of generative AI features ",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Turn off generative AI features ",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "User Guidelines ",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Attributions ",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Feedback ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Content usage and handling practices ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "What LLMS are we leveraging to power generative ai in acrobat? ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Managing chat history ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "What is chat history? ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "How can I see my chat history? ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Where is my chat history stored? ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Can I export my chat history in AI Assistant? ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "How can I clear my chat history in AI Assistant? ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Can I disable chat history in AI Assistant? ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "This is currently not available to users.  ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Can i share my chat history with others? ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Before You Begin ",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Get AI-generated answers ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "AI Assistant ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "To get started: ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Select multiple files ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2. Select Get started. ",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "then Remove file from chat.  ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "The answer and the source are cited ",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Accessing chat history in Acrobat ",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Get AI-generated overviews and summaries ",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Select Generative summary ",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "2. If prompted, select Get started. ",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Overview of the document ",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Assistant. ",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Streaming summaries for long PDFs ",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Acrobat ",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Prerequisites ",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Access Zoom meeting transcripts in Acrobat ",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Find and open Zoom transcripts ",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Manually open meeting transcripts in Acrobat ",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Select multiple filesAcrobat Desktop  ",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Acrobat online ",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "If prompted, select Get started to continue. ",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Use generative AI features in Acrobat Reader ",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Access the generative AI tools from Acrobat Reader Home ",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "Access the generative AI tools when you open a document ",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "If prompted, select Get started to continue. ",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Provide feedback for what worked well ",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Provide feedback for what didn’t work well ",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Report inappropriate content ",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Report content ",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Select the applicable options to report content ",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "Rate your experience with the generative AI features ",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Rate the Generative AI features ",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Turn off generative AI features in Acrobat or Acrobat Reader desktop ",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Turn off generative AI features in Acrobat on the web ",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Preference to toggle generative AI features in Acrobat on the web  ",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Note:  ",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Using AI Assistant in Acrobat mobile ",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Assistant.  ",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Get quick insights ",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "2. Select Agree. ",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Enter your questions using the voice command  ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "Provide feedback for generated answers ",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "Content references ",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "Indicate response ",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "Turn off AI Assistant ",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "2. Select Preferences.  ",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "Toggle generative AI features ",
+      "page": 31
+    }
+  ]
+}

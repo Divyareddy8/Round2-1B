@@ -1,0 +1,10 @@
+PyMuPDF
+sentence-transformers
+torch
+llama-cpp-python
+numpy
+nltk
+spacy
+pandas
+langdetect
+deep-translator
