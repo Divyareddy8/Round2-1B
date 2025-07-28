@@ -1,7 +1,7 @@
 PyMuPDF
 sentence-transformers
 torch
-llama-cpp-python
+llama-cpp-python==0.2.38
 numpy
 nltk
 spacy
