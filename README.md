@@ -46,7 +46,7 @@ docker run --rm ^
   -v "$(Get-Location)\input:/app/input" ^
   -v "$(Get-Location)\output:/app/output" ^
   --network none ^
-  headingclassifier:1a
+  headingclassifier:1b
 ```
 
 ### ✅ WSL / Git Bash / Linux / macOS
@@ -71,7 +71,7 @@ docker run --rm \
 | Model size ≤ 1GB        | ✅           |
 | No internet at runtime  | ✅           |
 | Execution time ≤ 60s    | ✅           |
-| Multilingual extensible | ⚙️ (future) |
+| Multilingual extensible |✅           |
 
 ---
 
