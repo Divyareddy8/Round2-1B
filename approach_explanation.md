@@ -1,7 +1,3 @@
-Sure Divya! Here's a clear and concise explanation for your `approach_explanation.md` file, written in simple words (within 300–500 words):
-
----
-
 # 🧠 Approach Explanation
 
 This project is designed to understand and summarize information from multiple PDF documents, based on a **persona** and a **task** provided by the user. The goal is to find and present the most relevant and meaningful content from the documents, in a way that is customized to the user's needs.
