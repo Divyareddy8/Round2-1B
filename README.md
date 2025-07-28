@@ -31,7 +31,25 @@ The pipeline combines structured outline extraction (from Round 1A), sentence em
 docker build --platform linux/amd64 -t headingclassifier:1b .
 ```
 
-### ▶️ Run the Container (Offline Mode)
+Of course, Divya! Here's a clean, ready-to-copy **README snippet** you can include in your project:
+
+---
+
+## 🚀 Running the Docker Container
+
+Depending on your terminal and operating system, use one of the following commands to run the Docker container:
+
+### ✅ PowerShell (Windows)
+
+```powershell
+docker run --rm ^
+  -v "$(Get-Location)\input:/app/input" ^
+  -v "$(Get-Location)\output:/app/output" ^
+  --network none ^
+  headingclassifier:1a
+```
+
+### ✅ WSL / Git Bash / Linux / macOS
 
 ```bash
 docker run --rm \
@@ -40,7 +58,6 @@ docker run --rm \
   --network none \
   headingclassifier:1b
 ```
-
 * 📂 All PDFs in `/input` are automatically processed.
 * 📄 JSON output will be saved to `/output`.
 
